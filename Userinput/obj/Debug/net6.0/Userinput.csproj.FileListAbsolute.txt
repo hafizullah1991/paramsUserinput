@@ -1,0 +1,14 @@
+C:\Users\ahmad\Desktop\Repo\Userinput\Userinput\obj\Debug\net6.0\Userinput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmad\Desktop\Repo\Userinput\Userinput\obj\Debug\net6.0\Userinput.AssemblyInfoInputs.cache
+C:\Users\ahmad\Desktop\Repo\Userinput\Userinput\obj\Debug\net6.0\Userinput.AssemblyInfo.cs
+C:\Users\ahmad\Desktop\Repo\Userinput\Userinput\obj\Debug\net6.0\Userinput.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\Desktop\Repo\Userinput\Userinput\bin\Debug\net6.0\Userinput.exe
+C:\Users\ahmad\Desktop\Repo\Userinput\Userinput\bin\Debug\net6.0\Userinput.deps.json
+C:\Users\ahmad\Desktop\Repo\Userinput\Userinput\bin\Debug\net6.0\Userinput.runtimeconfig.json
+C:\Users\ahmad\Desktop\Repo\Userinput\Userinput\bin\Debug\net6.0\Userinput.dll
+C:\Users\ahmad\Desktop\Repo\Userinput\Userinput\bin\Debug\net6.0\Userinput.pdb
+C:\Users\ahmad\Desktop\Repo\Userinput\Userinput\obj\Debug\net6.0\Userinput.dll
+C:\Users\ahmad\Desktop\Repo\Userinput\Userinput\obj\Debug\net6.0\refint\Userinput.dll
+C:\Users\ahmad\Desktop\Repo\Userinput\Userinput\obj\Debug\net6.0\Userinput.pdb
+C:\Users\ahmad\Desktop\Repo\Userinput\Userinput\obj\Debug\net6.0\Userinput.genruntimeconfig.cache
+C:\Users\ahmad\Desktop\Repo\Userinput\Userinput\obj\Debug\net6.0\ref\Userinput.dll
