@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ahmad\\Desktop\\Repo\\Userinput\\Userinput\\Userinput.csproj": {}
+    "C:\\Users\\ahmad\\Desktop\\Repo\\UserInput\\Userinput\\Userinput.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ahmad\\Desktop\\Repo\\Userinput\\Userinput\\Userinput.csproj": {
+    "C:\\Users\\ahmad\\Desktop\\Repo\\UserInput\\Userinput\\Userinput.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmad\\Desktop\\Repo\\Userinput\\Userinput\\Userinput.csproj",
+        "projectUniqueName": "C:\\Users\\ahmad\\Desktop\\Repo\\UserInput\\Userinput\\Userinput.csproj",
         "projectName": "Userinput",
-        "projectPath": "C:\\Users\\ahmad\\Desktop\\Repo\\Userinput\\Userinput\\Userinput.csproj",
+        "projectPath": "C:\\Users\\ahmad\\Desktop\\Repo\\UserInput\\Userinput\\Userinput.csproj",
         "packagesPath": "C:\\Users\\ahmad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmad\\Desktop\\Repo\\Userinput\\Userinput\\obj\\",
+        "outputPath": "C:\\Users\\ahmad\\Desktop\\Repo\\UserInput\\Userinput\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ahmad\\AppData\\Roaming\\NuGet\\NuGet.Config",
