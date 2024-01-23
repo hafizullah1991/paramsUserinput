@@ -21,13 +21,13 @@ internal class Program
 
         // Exercise 2 Add and subtract
 
-        double Total = Add(3, 4, 22, 33, 4, 1);
-        Console.WriteLine(Total);
+        double total = AddNumber(3, 4, 22, 33, 4, 1);
+        Console.WriteLine(total);
 
-        int result = subtract(14, 12); 
+        int result = SubTract(14, 12); 
         Console.WriteLine(result);
     }
-    public static double Add(params double[] prices)
+    public static double AddNumber(params double[] prices)
     {
         double Total = 0;
         {
@@ -40,7 +40,7 @@ internal class Program
     }
    
 
-public static int subtract(int x , int y)
+public static int SubTract(int x , int y)
     {
         return x - y;
     }
